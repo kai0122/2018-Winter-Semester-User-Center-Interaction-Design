@@ -5,6 +5,7 @@
 We hope that by using our APP, people with poor emotion regulation ability can manage their emotions better. They can find happiness among many different moods and become positive to face everything in life.
 
 ![](https://i.imgur.com/jp6lOOT.png =300x300)
+
 ![](https://i.imgur.com/2cGuraH.gif =300x300)
 
 ## [Paper: Euthymia:	The	Private	Assistant of Your Emotion	Regulation]()
