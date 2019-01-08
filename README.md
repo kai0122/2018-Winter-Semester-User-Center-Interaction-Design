@@ -4,8 +4,7 @@
 ### Logo Design Idea:
 We hope that by using our APP, people with poor emotion regulation ability can manage their emotions better. They can find happiness among many different moods and become positive to face everything in life.
 
-<img src="https://i.imgur.com/jp6lOOT.png" width="300" height="300" />
-<img src="https://i.imgur.com/2cGuraH.gif" width="300" height="300" />
+<img src="https://i.imgur.com/jp6lOOT.png" width="300" height="300" /> <img src="https://i.imgur.com/2cGuraH.gif" width="300" height="300" />
 
 ## [Paper: Euthymia:	The	Private	Assistant of Your Emotion	Regulation]()
 ## [Final Poster]()
